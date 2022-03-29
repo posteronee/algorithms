@@ -1,0 +1,3 @@
+/Users/nikitaivanov/Desktop/8_A/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/nikitaivanov/Desktop/8_A/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/nikitaivanov/Desktop/8_A/cmake-build-debug/CMakeFiles/8_A.dir
